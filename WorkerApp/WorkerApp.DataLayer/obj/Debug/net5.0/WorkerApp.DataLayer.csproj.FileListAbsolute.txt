@@ -1,0 +1,15 @@
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\bin\Debug\net5.0\WorkerApp.Models.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.csprojAssemblyReference.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.AssemblyInfo.cs
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\bin\Debug\net5.0\WorkerApp.DataLayer.deps.json
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\bin\Debug\net5.0\WorkerApp.DataLayer.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\bin\Debug\net5.0\ref\WorkerApp.DataLayer.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\bin\Debug\net5.0\WorkerApp.DataLayer.pdb
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\bin\Debug\net5.0\WorkerApp.Models.pdb
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.csproj.CopyComplete
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\ref\WorkerApp.DataLayer.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.DataLayer\obj\Debug\net5.0\WorkerApp.DataLayer.pdb

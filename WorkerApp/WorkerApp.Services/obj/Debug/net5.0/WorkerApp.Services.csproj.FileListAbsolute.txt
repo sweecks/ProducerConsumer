@@ -1,0 +1,15 @@
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.csprojAssemblyReference.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.AssemblyInfo.cs
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\bin\Debug\net5.0\WorkerApp.Services.deps.json
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\bin\Debug\net5.0\WorkerApp.Services.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\bin\Debug\net5.0\ref\WorkerApp.Services.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\bin\Debug\net5.0\WorkerApp.Services.pdb
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\bin\Debug\net5.0\WorkerApp.Models.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\bin\Debug\net5.0\WorkerApp.Models.pdb
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.csproj.CopyComplete
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\ref\WorkerApp.Services.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Services\obj\Debug\net5.0\WorkerApp.Services.pdb

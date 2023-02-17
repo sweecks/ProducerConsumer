@@ -1,0 +1,9 @@
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\bin\Debug\netstandard2.0\WorkerApp.Models.deps.json
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\bin\Debug\netstandard2.0\WorkerApp.Models.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\bin\Debug\netstandard2.0\WorkerApp.Models.pdb
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\obj\Debug\netstandard2.0\WorkerApp.Models.csprojAssemblyReference.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\obj\Debug\netstandard2.0\WorkerApp.Models.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\obj\Debug\netstandard2.0\WorkerApp.Models.AssemblyInfo.cs
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\obj\Debug\netstandard2.0\WorkerApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\obj\Debug\netstandard2.0\WorkerApp.Models.dll
+C:\Users\Kris\Desktop\EGT Task\WorkerApp\WorkerApp.Models\obj\Debug\netstandard2.0\WorkerApp.Models.pdb

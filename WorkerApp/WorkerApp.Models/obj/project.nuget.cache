@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ivr4v1hSx+PCIVeB5cTDcNxGe/NC79k5KBPbu8DoscrYDaOEx/BK7hEHA2oS0vLitS0FIT3w5hbB661S2uCY6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kris\\Desktop\\EGT Task\\WorkerApp\\WorkerApp.Models\\WorkerApp.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
